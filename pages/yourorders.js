@@ -65,7 +65,7 @@ export default function YourOrders() {
               justifySelf: "center",
             }}
           >
-            You don't have any orders
+            You don&apos;t have any orders
           </div>
         </div>
       )}
